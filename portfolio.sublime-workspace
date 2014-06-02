@@ -1,0 +1,375 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"color"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ta",
+				"target	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4461,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/builds/php-lint.sublime-build",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"syntax:css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syntax:c",
+				"Set Syntax: CSS"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"gi",
+				"Gist: Insert Gist"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"syn",
+				"Set Syntax: PHP"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 85.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/portfolio/Gruntfile.js",
+		"/C/wamp/www/portfolio/sass/custom.scss",
+		"/C/wamp/www/portfolio/index.html",
+		"/C/wamp/www/portfolio/sass/layout.scss",
+		"/C/wamp/www/portfolio/sass/modules.scss",
+		"/C/wamp/www/portfolio/sass/typography.scss",
+		"/C/wamp/www/portfolio/css/custom.css",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/PORTABLE APPS/sublime3-portable/Data/Packages/User/css/import.sublime-snippet",
+		"/C/wamp/www/portfolio/sass/custom.sass",
+		"/C/wamp/www/portfolio/package.json",
+		"/C/wamp/www/less/Gruntfile.js",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/PORTABLE APPS/sublime3-portable/Data/Packages/User/Fetch.sublime-settings",
+		"/C/users/chrisj/appdata/local/temp/sublime-sftp-browse-1401670865/mapped/public_html/ukawep.co.uk/aawep2014/wp-content/plugins/wp-geoip-redirect/wpgeoip_redirect.php",
+		"/C/users/chrisj/appdata/local/temp/sublime-sftp-browse-1401670344/mapped/public_html/weddingandeventinstitute.com/aawep2014/wp-content/plugins/wp-geoip-redirect/wpgeoip_redirect.php",
+		"/C/users/chrisj/appdata/local/temp/sublime-sftp-browse-1401670941/mapped/public_html/aawep2014/wp-content/plugins/wp-geoip-redirect/wpgeoip_redirect.php",
+		"/C/Users/ChrisJ/Desktop/home-header.php",
+		"/C/Users/ChrisJ/Desktop/header.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/DEV/WEI/assets/css/custom.css",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/DEV/WEI/foxyshop-single-product.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/DEV/WEI/functions.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/DEV/WEI/footer.php",
+		"/C/users/chrisj/appdata/local/temp/sublime-sftp-browse-1401667288/mapped/public_html/weddingandeventinstitute.com/aawep2014/wp-content/plugins/wp-geoip-redirect/wpgeoip_redirect.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/PORTABLE APPS/sublime3-portable/Data/Packages/User/SFTP.errors.log",
+		"/C/users/chrisj/appdata/local/temp/sublime-sftp-browse-1401668654/mapped/public_html/aawep2014/wp-content/themes/aawep/header.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/DEV/WEI/header.php",
+		"/C/users/chrisj/appdata/local/temp/sublime-sftp-browse-1401669203/mapped/public_html/ukawep.co.uk/aawep2014/wp-content/themes/aawep/header.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/DEV/WEI/page.php",
+		"/C/Users/ChrisJ/Desktop/index.php",
+		"/C/Users/ChrisJ/Desktop/checkout.html",
+		"/C/Users/ChrisJ/Desktop/wp-config.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/DEV/WEI/paypal/DoExpressCheckoutPayment.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/DEV/WEI/paypal/ReviewOrder.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/DEV/WEI/paypal/getprice.php",
+		"/C/Users/ChrisJ/Desktop/paypal.txt",
+		"/C/Users/ChrisJ/Desktop/functions.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/PORTABLE APPS/sublime3-portable/Data/Packages/User/javascript/grunt.sublime-snippet",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/DEV/WEI/assets/js/video.js",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/DEV/WEI/assets/js/custom.js",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/DEV/WEI/templates/partners.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/DEV/WEI/templates/coaching.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/DEV/WEI/templates/course-comparison.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/DEV/WEI/templates/workshops.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/DEV/WEI/templates/login.php",
+		"/C/wamp/www/wedding-academy-blog/wp-content/themes/wedding-academy-blog/page.php",
+		"/C/wamp/www/wedding-academy-blog/wp-content/themes/wedding-academy-blog/archive.php",
+		"/C/wamp/www/wedding-academy-blog/wp-content/themes/wedding-academy-blog/normalize.min.css",
+		"/C/Users/ChrisJ/Desktop/test.css",
+		"/C/Users/ChrisJ/Desktop/sublime3-portable/Data/Packages/User/Gist.sublime-settings",
+		"/C/Users/ChrisJ/Desktop/sublime3-portable/Data/Packages/Gist/Gist.sublime-settings",
+		"/C/wamp/www/wedding-academy-blog/wp-config.php",
+		"/C/wamp/www/wedding-academy-blog/wp-content/themes/wedding-academy-blog/home.php",
+		"/C/wamp/www/wedding-academy-blog/wp-content/themes/wedding-academy-blog/style.css",
+		"/C/wamp/www/wedding-academy-blog/html/home.html",
+		"/C/wamp/www/wedding-academy-blog/wp-content/themes/wedding-academy-blog/js/scripts.js",
+		"/C/wamp/www/wedding-academy-blog/wp-content/themes/wedding-academy-blog/slider.php",
+		"/C/wamp/www/wedding-academy-blog/html/single-post.html",
+		"/C/wamp/www/wedding-academy-blog/wp-content/themes/wedding-academy-blog/single.php",
+		"/C/wamp/www/wedding-academy-blog/wp-content/themes/wedding-academy-blog/header.php",
+		"/C/wamp/www/wedding-academy-blog/wp-content/themes/wedding-academy-blog/footer.php",
+		"/C/wamp/www/wedding-academy-blog/wp-content/themes/wedding-academy-blog/functions.php",
+		"/C/Users/ChrisJ/Desktop/sublime3-portable/Data/Packages/User/php/template-name.sublime-snippet",
+		"/C/wamp/www/wedding-academy-blog/wp-content/themes/wedding-academy-blog/single-old.php",
+		"/C/Users/ChrisJ/Desktop/sublime3-portable/Data/Packages/User/php/the-field.sublime-snippet",
+		"/C/wamp/www/wedding-academy-blog/wp-admin/network/site-new.php",
+		"/C/wamp/www/wedding-academy-blog/wp-admin/network/site-info.php",
+		"/C/wamp/www/wedding-academy-blog/wp-settings.php",
+		"/C/Users/ChrisJ/Desktop/sublime3-portable/Data/Packages/User/php/template-directory.sublime-snippet",
+		"/C/wamp/www/wedding-academy-blog/wp-content/themes/twentytwelve/editor-style-rtl.css",
+		"/C/Users/ChrisJ/Desktop/sublime3-portable/Data/Packages/User/php/get-footer.sublime-snippet",
+		"/C/Users/ChrisJ/Desktop/sublime3-portable/Data/Packages/User/sql/active-plugins.sublime-snippet",
+		"/C/wamp/www/wedding-academy-blog/index.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/NEW BLOGS/HTML/index.html",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/NEW BLOGS/HTML/sftp-config.json",
+		"/C/Users/ChrisJ/Desktop/sublime3-portable/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/ChrisJ/Desktop/sublime3-portable/Data/Packages/User/Side Bar.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"releases",
+			"admin",
+			"cache",
+			"gst",
+			"GST",
+			"check",
+			"accredited-wedding-planner-master-course",
+			"medium",
+			"@",
+			"large",
+			"large-images",
+			"images",
+			"large-images",
+			"$_GET",
+			"formButton",
+			"preve",
+			"@",
+			"enrol",
+			"selec",
+			"addCL",
+			"_GET",
+			"get",
+			"form-c",
+			"article",
+			"src"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"medium-images"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4461,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 474.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 130.0
+	},
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sing",
+				"html\\single-post.html"
+			],
+			[
+				"home",
+				"html\\home.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
